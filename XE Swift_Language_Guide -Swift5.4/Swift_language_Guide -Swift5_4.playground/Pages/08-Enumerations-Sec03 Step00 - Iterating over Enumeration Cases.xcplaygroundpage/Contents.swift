@@ -1,13 +1,13 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Exercise 3
+ # Enumerations - Section 3
  ## Iterating over Enumeration Cases
  ---
  */
 import Foundation
 
 
-// ******************** Ex03-Step00 ********************
+// ******************** Sec03-Step00 ********************
 
 print("\n--- Ex03-Step00 ---")
 

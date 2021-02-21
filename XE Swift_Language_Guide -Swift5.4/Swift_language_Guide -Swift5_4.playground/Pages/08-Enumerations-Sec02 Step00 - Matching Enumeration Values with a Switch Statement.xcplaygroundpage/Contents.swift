@@ -1,13 +1,13 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Exercise 2
+ # Enumerations - Section 2
  ## Matching Enumeration Values with a Switch Statement
  ---
  */
 import Foundation
 
 
-// ******************** Ex02-Step00 ********************
+// ******************** Sec02-Step00 ********************
 
 enum CompassPoint {
   case north, south, east, west

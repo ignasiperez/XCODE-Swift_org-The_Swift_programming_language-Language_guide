@@ -1,6 +1,6 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Exercise 1
+ # Enumerations - Section 1
  ## Enumeration Syntax
  ---
  */
@@ -8,7 +8,7 @@
 import Foundation
 
 
-// ******************** Ex01-Step00 ********************
+// ******************** Sec01-Step00 ********************
 
 enum SomeEnumeration {
   // enumeration definition goes here
@@ -31,8 +31,5 @@ enum Planet {
 var directionToHead = CompassPoint.west
 
 directionToHead = .east
-
-
-
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

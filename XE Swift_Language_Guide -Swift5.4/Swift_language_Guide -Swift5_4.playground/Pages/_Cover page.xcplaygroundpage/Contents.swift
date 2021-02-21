@@ -1,8 +1,8 @@
 //: # [                         􀄫](@next)
 /*:
-# Introduction Closures 3
+# Swift Language Guide
 ---
-### Version 1.1
+### Swift 5.4
 ### February 2021
 
  

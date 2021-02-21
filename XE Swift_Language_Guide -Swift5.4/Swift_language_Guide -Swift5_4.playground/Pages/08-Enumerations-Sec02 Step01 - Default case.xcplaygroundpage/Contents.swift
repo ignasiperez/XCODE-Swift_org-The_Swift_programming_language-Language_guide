@@ -1,13 +1,13 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Exercise 2
+ # Enumerations - Section 2
  ## Step01 - Default case
  ---
  */
 import Foundation
 
 
-// ******************** Ex02-Step01 ********************
+// ******************** Sec02-Step01 ********************
 
 enum Planet {
   case mercury, venus, earth, mars, jupiter, saturn, uranus, neptune

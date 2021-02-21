@@ -1,15 +1,15 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Exercise 3
+ # Enumerations - Section 3
  ## Step01 - For loop to iterate over all cases
  ---
  */
 import Foundation
 
 
-// ******************** Ex03-Step01 ********************
+// ******************** Sec03-Step01 ********************
 
-print("\n--- Ex03-Step01 ---")
+print("\n--- Sec03-Step01 ---")
 
 enum Beverage: CaseIterable {
   case coffee, tea, juice
