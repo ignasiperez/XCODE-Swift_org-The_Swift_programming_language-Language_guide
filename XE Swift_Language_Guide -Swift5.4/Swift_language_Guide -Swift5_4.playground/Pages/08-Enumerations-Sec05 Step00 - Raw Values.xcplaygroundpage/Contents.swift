@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  # Enumerations - Section 5
- ## Associated Values
+ ## Raw Values
  ---
  */
 
