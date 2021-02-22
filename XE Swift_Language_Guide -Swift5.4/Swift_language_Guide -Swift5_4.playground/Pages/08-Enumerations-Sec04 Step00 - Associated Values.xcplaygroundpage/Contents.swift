@@ -1,23 +1,23 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 3
+ # Enumerations - Section 4
  ## Associated Values
  ---
  */
+
 import Foundation
 
 
-// ******************** Sec03-Step00 ********************
+// ******************** Sec04-Step00 ********************
 
-print("\n--- Sec03-Step00 ---")
-
-enum Beverage: CaseIterable {
-  case coffee, tea, juice
+enum Barcode {
+  case upc(Int, Int, Int, Int)
+  case qrCode(String)
 }
 
 
-let numberOfChoices = Beverage.allCases.count
-print("\(numberOfChoices) beverages available")
-// Prints "3 beverages available"
+var productBarcode = Barcode.upc(8, 85909, 51226, 3)
+
+productBarcode = .qrCode("ABCDEFGHIJKLMNOP")
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
