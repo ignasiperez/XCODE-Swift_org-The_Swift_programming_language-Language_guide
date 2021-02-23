@@ -17,7 +17,7 @@ enum Planet {
 
 let somePlanet = Planet.earth
 
-print("\n--- Ex02-Step01 ---")
+print("\n--- Sec02-Step01 ---")
 
 switch somePlanet {
 case .earth:

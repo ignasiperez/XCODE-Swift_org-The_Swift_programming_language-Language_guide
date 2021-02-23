@@ -20,7 +20,7 @@ enum CompassPoint: String {
 }
 
 
-print("\n--- Ex05-Step03 ---")
+print("\n--- Sec05-Step03 ---")
 
 let earthsOrder = Planet.earth.rawValue
 // earthsOrder is 3

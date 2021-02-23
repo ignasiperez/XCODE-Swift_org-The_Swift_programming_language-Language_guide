@@ -14,7 +14,7 @@ enum Planet: Int {
   case mercury = 1, venus, earth, mars, jupiter, saturn, uranus, neptune
 }
 
-print("\n--- Ex06-Step01 ---")
+print("\n--- Sec06-Step01 ---")
 
 let positionToFind = 11
 

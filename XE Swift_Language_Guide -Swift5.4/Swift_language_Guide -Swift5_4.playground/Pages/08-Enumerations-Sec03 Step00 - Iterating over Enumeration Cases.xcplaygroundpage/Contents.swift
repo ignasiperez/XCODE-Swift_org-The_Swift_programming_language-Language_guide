@@ -10,7 +10,7 @@ import Foundation
 
 // ******************** Sec03-Step00 ********************
 
-print("\n--- Ex03-Step00 ---")
+print("\n--- Sec03-Step00 ---")
 
 enum Beverage: CaseIterable {
   case coffee, tea, juice

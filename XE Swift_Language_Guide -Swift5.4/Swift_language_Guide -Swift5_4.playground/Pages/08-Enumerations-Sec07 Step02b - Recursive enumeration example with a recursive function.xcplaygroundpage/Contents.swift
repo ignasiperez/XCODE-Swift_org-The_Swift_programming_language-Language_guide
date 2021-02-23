@@ -35,7 +35,7 @@ func evaluate(_ expression: ArithmeticExpression) -> Int {
   }
 }
 
-print("\n--- Ex07-Step02b ---")
+print("\n--- Sec07-Step02b ---")
 print(evaluate(product))
 // Prints "18"
 
