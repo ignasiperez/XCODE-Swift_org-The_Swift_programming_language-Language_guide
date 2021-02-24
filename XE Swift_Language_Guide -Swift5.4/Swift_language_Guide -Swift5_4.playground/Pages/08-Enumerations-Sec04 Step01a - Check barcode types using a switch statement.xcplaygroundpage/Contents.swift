@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 3
- ## Step01s - Check the different barcode types using a switch statement
+ # Enumerations
+ ## Section 4 - Step01a
+ ## Check barcode types using a switch statement
  ---
  */
 

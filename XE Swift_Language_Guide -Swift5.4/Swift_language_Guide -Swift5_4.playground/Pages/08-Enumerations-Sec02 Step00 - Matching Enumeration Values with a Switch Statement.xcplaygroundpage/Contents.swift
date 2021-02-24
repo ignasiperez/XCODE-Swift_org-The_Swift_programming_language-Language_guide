@@ -1,6 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 2
+ # Enumerations
+ ## Section 2
  ## Matching Enumeration Values with a Switch Statement
  ---
  */

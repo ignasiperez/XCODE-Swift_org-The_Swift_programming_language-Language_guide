@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 5
- ## Step01 - Integer Raw values
+ # Enumerations
+ ## Section 5 - Step01
+ ## Integer Raw values
  ---
  */
 

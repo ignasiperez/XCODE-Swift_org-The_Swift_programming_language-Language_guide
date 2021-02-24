@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Structures and Classes - Section 1
- ## Step01b - Structure and Class Instances
+ # Structures and Classes
+ ## Section 1 - Step01b
+ ## Structure and Class Instances
  ---
  */
 

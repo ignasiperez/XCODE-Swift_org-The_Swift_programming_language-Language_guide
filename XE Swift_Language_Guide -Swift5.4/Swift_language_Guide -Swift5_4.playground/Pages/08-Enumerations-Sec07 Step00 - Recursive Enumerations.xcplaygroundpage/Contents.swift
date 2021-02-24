@@ -1,6 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 7
+ # Enumerations
+ ## Section 7
  ## Recursive enumerations
  ---
  */

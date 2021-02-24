@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 5
- ## Step02 - Case name text as implicit value
+ # Enumerations
+ ## Section 5 - Step02
+ ## Case name text as implicit value
  ---
  */
 

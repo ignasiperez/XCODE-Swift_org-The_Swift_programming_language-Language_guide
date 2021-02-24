@@ -1,6 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 1
+ # Enumerations
+ ## Section 1
  ## Enumeration Syntax
  ---
  */

@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 6
- ## Step01 - Raw value initializer returns nil
+ # Enumerations
+ ## Section 6 - Step01
+ ## Raw value initializer returns nil
  ---
  */
 

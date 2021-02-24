@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 3
- ## Step01 - For loop to iterate over all cases
+ # Enumerations
+ ## Section 3 - Step01
+ ## For loop to iterate over all cases
  ---
  */
 

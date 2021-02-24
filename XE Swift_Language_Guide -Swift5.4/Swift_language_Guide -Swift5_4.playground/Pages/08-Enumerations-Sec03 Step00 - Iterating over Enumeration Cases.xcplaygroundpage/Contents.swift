@@ -1,6 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 3
+ # Enumerations
+ ## Section 3
  ## Iterating over Enumeration Cases
  ---
  */

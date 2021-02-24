@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 7
- ## Step02a - Recursive enumeration example
+ # Enumerations
+ ## Section 7 - Step02a
+ ## Recursive enumeration example
  ---
  */
 

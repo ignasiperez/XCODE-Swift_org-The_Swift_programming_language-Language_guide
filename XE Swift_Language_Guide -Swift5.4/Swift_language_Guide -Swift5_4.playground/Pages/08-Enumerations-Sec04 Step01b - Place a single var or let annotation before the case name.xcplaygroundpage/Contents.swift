@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 4
- ## Step01b - Place a single var or let annotation before the case name
+ # Enumerations
+ ## Section 4 - Step01b
+ ## Place a single var or let annotation before the case name
  ---
  */
 

@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 2
- ## Step01 - Default case
+ # Enumerations
+ ## Section 2 - Step01
+ ## Default case
  ---
  */
 

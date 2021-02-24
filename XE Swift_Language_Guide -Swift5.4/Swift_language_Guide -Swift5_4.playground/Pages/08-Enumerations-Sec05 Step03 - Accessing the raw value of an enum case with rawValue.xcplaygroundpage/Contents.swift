@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 5
- ## Step03 - Accessing the raw value of an enum case with rawValue
+ # Enumerations
+ ## Section 5 - Step03
+ ## Accessing the raw value of an enum case with rawValue
  ---
  */
 

@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Structures and Classes - Section 1
- ## Step01d - Memberwise Initializers for Structure Types
+ # Structures and Classes
+ ## Section 1 - Step01d
+ ## Memberwise Initializers for Structure Types
  ---
  */
 

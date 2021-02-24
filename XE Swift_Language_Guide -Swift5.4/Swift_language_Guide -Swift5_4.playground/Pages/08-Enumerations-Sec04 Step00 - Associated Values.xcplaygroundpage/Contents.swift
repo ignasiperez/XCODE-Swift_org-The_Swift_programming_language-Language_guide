@@ -1,6 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 4
+ # Enumerations
+ ## Section 4
  ## Associated Values
  ---
  */

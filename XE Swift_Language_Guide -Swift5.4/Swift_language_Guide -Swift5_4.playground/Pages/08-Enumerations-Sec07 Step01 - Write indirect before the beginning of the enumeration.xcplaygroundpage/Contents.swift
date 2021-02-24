@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 7
- ## Step01 - Write indirect before the beginning of the enumeration
+ # Enumerations
+ ## Section 7 - Step01
+ ## Write indirect before the beginning of the enumeration
  ---
  */
 

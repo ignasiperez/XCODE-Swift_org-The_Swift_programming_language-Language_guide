@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Enumerations - Section 7
- ## Step02b - Recursive enumeration example with a recursive function
+ # Enumerations
+ ## Section 7 - Step02b
+ ## Recursive enumeration example with a recursive function
  ---
  */
 
