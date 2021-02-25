@@ -9,6 +9,8 @@
  
  [09 Structures and Classes](<09-Structures%20and%20Classes%20-%20Structures%20and%20Classes>)
  
+ [10 Properties](<10-Properties-Sec00%20-%20Properties>)
+ 
 */
 //: # [                         􀄫](@next)
 /*:
