@@ -2,14 +2,14 @@
 /*:
  # Properties
  ## Section 2 - Step01b
- ## Shorthand Setter Declaration
+ ## Shorthand getter Declaration
  ---
  */
 
 import Foundation
 
 
-// ******************** Sec02-Step01b ********************
+// ******************** Sec02-Step01c ********************
 
 struct Point {
   var x = 0.0, y = 0.0
@@ -21,16 +21,15 @@ struct Size {
 }
 
 
-struct AlternativeRect {
+struct CompactRect {
   var origin = Point()
   var size = Size()
+  
   var center: Point {
     get {
-      let centerX = origin.x + (size.width / 2)
-      let centerY = origin.y + (size.height / 2)
-      return Point(x: centerX, y: centerY)
+      Point(x: origin.x + (size.width / 2),
+            y: origin.y + (size.height / 2))
     }
-//  set(newCenter) {
     set {
       origin.x = newValue.x - (size.width / 2)
       origin.y = newValue.y - (size.height / 2)
@@ -39,13 +38,13 @@ struct AlternativeRect {
 }
 
 
-var square = AlternativeRect(origin: Point(x: 0.0, y: 0.0),
-                             size: Size(width: 10.0, height: 10.0))
+var square = CompactRect(origin: Point(x: 0.0, y: 0.0),
+                         size: Size(width: 10.0, height: 10.0))
 
 let initialSquareCenter = square.center
 square.center = Point(x: 15.0, y: 15.0)
 
-print("\n--- Sec02-Step01b ---")
+print("\n--- Sec02-Step01c ---")
 print("square.origin is now at (\(square.origin.x), \(square.origin.y))")
 // Prints "square.origin is now at (10.0, 10.0)"
 
