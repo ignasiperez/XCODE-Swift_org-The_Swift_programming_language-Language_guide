@@ -18,6 +18,8 @@ class StepCounter {
     }
     
     didSet {
+      print("totalSteps: \(totalSteps)")
+      print("oldValue: \(oldValue)")
       if totalSteps > oldValue  {
         print("Added \(totalSteps - oldValue) steps")
       }
