@@ -11,6 +11,18 @@
  
  [Sec04 Integers](<01-The%20Basics-Sec04%20-%20Integers>)
  
+ [Sec05 Floating-Point Numbers](<01-The%20Basics-Sec05%20-%20Floating-Point%20Numbers>)
+ 
+ [Sec06 Type Safety and Type Inference Numbers](<01-The%20Basics-Sec06%20Step01%20-%20Type%20Safety%20and%20Type%20Inference>)
+ 
+ [Sec07 Numeric Literals](<01-The%20Basics-Sec07%20-%20Numeric%20Literals>)
+ 
+ [Sec08 Numeric Type Conversion](<01-The%20Basics-Sec08%20-%20Numeric%20Type%20Conversion>)
+ 
+ [Sec09 Type Aliases](<01-The%20Basics-Sec09%20-%20Type%20Aliases>)
+ 
+ [Sec10 Integers](<>)
+ 
  */
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

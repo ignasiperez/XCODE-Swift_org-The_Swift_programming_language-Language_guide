@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  # The Basics
- ## 01 - Section 7
+ ### 01 - Section 7
  ## Numeric Literals
  ---
  Floating-point numbers are numbers with a fractional component, such as 3.14159, 0.1, and -273.15.
