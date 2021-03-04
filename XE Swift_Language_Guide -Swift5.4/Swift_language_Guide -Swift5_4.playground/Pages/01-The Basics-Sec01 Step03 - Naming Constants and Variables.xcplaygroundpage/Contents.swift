@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # The Basics
  ### 01 - Section 1 - Step03
+ # The Basics
+ # Constants and Variables
  ## Naming Constants and Variables
  ---
  */

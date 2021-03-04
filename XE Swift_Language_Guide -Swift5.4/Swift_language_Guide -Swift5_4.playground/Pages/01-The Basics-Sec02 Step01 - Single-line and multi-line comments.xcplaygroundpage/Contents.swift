@@ -1,8 +1,9 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # The Basics
  ### 01 - Section 2 - Step01
- ## Comments
+ # The Basics
+ # Comments
+ ## Single-line and multi-line comments
  ---
  */
 

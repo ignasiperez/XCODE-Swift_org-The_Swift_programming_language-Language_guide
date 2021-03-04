@@ -1,8 +1,9 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # The Basics
  ### 01 - Section 1 - Step04
- ## printing Constants and Variables
+ # The Basics
+ # Constants and Variables
+ ## Printing Constants and Variables
  ---
  */
 

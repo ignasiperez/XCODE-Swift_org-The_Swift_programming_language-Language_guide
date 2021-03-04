@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # The Basics
  ### 01 - Section 1 - Step02a
+ # The Basics
+ # Constants and Variables
  ## Type Annotations
  ---
  */

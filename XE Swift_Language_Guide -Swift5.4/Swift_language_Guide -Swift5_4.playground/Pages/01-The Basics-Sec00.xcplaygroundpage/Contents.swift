@@ -1,5 +1,6 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
+ ### 01
  # The Basics
  ### https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
  ---
@@ -21,7 +22,11 @@
  
  [Sec09 Type Aliases](<01-The%20Basics-Sec09%20-%20Type%20Aliases>)
  
- [Sec10 Integers](<>)
+ [Sec10 Booleans](<01-The%20Basics-Sec10%20-%20Booleans>)
+ 
+ [Sec11 Tuples](<01-The%20Basics-Sec11%20-%20Tuples>)
+ 
+ [Sec12 Optionals](<01-The%20Basics-Sec12%20-%20Optionals>)
  
  */
 

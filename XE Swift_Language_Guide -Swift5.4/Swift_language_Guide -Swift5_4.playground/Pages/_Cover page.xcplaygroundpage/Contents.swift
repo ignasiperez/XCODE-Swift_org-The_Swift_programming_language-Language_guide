@@ -5,7 +5,7 @@
 ### Swift 5.4
 ### March 2021
 ---
- [01 The Basics](<01-The%20Basics-Sec00%20-%20The%20Basics>)
+ [01 The Basics](<01-The%20Basics-Sec00>)
  
  [08 Enumerations](<08-Enumerations-Sec00%20-%20Enumerations>)
  
