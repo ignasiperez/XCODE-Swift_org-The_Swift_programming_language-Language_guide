@@ -1,22 +1,16 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
+ ### 01 - Section 7 - Step01b
  # The Basics
- ### 01 - Section 7 - Step01
- ## Numeric Literals
+ # Numeric Literals
+ ## Floating-point literals
  ---
  */
 
 import Foundation
 
 
-// ******************** 01-Sec07-Step01 ********************
-
-let decimalInteger = 17
-let binaryInteger = 0b10001       // 17 in binary notation
-let octalInteger = 0o21           // 17 in octal notation
-let hexadecimalInteger = 0x11     // 17 in hexadecimal notation
-
-
+// ******************** 01-Sec07-Step01b ********************
 
 let decimalDouble = 12.1875
 let exponentDouble = 1.21875e1

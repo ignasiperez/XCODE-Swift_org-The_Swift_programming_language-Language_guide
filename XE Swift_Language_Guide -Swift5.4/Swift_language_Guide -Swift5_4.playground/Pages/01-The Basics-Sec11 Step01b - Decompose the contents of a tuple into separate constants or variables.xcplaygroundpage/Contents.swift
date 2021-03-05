@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # The Basics
  ### 01 - Section 11 - Step01b
+ # The Basics
+ # Tuples
  ## Decompose the contents of a tuple into separate constants or variables
  ---
  */

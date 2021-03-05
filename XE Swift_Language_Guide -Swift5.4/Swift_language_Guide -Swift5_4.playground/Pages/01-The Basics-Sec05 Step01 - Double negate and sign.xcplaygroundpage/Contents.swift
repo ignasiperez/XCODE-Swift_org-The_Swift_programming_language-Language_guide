@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # The Basics
  ### 01 - Section 5 - Step01
+ # The Basics
+ # Floating-Point Numbers
  ## Double: negate and sign
  ---
  */

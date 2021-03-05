@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # The Basics
  ### 01 - Section 11 - Step01d
+ # The Basics
+ # Tuples
  ## Access individual items with index numbers
  ---
  */

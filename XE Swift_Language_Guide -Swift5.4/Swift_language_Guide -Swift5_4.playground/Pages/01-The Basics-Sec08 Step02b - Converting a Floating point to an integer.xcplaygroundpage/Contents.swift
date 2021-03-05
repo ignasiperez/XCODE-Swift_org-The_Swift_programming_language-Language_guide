@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
+ ### 01 - Section 8 - Step02b
  # The Basics
- ### 01 - Section 8 - Step02a
+ # Numeric Type Conversion
  ## Converting a Floating point to an integer
  ---
  */

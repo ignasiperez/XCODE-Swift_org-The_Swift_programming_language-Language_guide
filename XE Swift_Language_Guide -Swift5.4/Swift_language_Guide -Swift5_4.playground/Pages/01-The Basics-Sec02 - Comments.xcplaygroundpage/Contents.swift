@@ -4,6 +4,6 @@
  # The Basics
  # Comments
  ---
- Use comments to include nonexecutable text in your code, as a note or reminder to yourself. Comments are ignored by the Swift compiler when your code is compiled.
+ Use _**comments**_ to include nonexecutable text in your code, as a note or reminder to yourself. _**Comments**_ are ignored by the Swift compiler when your code is compiled.
  */
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

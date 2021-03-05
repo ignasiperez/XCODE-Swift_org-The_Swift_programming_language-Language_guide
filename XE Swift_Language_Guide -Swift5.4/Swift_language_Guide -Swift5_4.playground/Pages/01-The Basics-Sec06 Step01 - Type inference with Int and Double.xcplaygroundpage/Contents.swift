@@ -1,8 +1,9 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # The Basics
  ### 01 - Section 6 - Step01
- ## Integer Bounds
+ # The Basics
+ # Type Safety and Type Inference
+ ## Type inference with Int and Double
  ---
  */
 
