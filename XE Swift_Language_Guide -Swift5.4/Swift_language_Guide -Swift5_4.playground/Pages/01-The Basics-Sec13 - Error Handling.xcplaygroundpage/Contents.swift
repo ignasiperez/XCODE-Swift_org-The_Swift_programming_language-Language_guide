@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 13
- # The Basics
+ # THE BASICS
  # Error Hnadling
  ---
  You use _**error handling**_ to respond to error conditions your program may encounter during execution.

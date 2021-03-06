@@ -6,7 +6,7 @@
 ### Playground version: 1.0
 ### Playground date: March 2021
 ---
- [01 The Basics](<01-The%20Basics-Sec00>)
+ [01 THE BASICS](<01-THE%20BASICS-Sec00>)
  
  [08 Enumerations](<08-Enumerations-Sec00%20-%20Enumerations>)
  

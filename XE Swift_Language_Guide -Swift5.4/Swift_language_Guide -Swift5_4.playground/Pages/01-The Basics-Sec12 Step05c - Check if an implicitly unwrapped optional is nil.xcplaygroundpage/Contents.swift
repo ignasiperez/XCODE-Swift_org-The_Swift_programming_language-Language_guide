@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 12 - Step05c
- # The Basics
+ # THE BASICS
  # Optionals
  ## Check if an implicitly unwrapped optional is nil
  ---

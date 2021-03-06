@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 4
- # The Basics
+ # THE BASICS
  # Integers
  ---
  _**Integers**_ are whole numbers with no fractional component, such as 42 and -23. _**Integers**_ are either signed (positive, zero, or negative) or unsigned (positive or zero).

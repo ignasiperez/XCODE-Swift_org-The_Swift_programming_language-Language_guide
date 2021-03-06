@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 12 - Step04b
- # The Basics
+ # THE BASICS
  # Optionals
  ## Several Optional Bindings and Boolean conditions in an if statement
  ---

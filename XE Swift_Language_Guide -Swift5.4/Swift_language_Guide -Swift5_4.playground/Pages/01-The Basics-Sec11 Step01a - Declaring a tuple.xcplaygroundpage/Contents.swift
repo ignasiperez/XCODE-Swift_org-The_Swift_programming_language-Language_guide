@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 11 - Step01a
- # The Basics
+ # THE BASICS
  # Tuples
  ## Declaring a tuple
  ---

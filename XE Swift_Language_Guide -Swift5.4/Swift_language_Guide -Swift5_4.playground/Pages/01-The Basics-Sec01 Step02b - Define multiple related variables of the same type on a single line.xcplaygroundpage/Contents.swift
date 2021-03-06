@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 1 - Step02b
- # The Basics
+ # THE BASICS
  # Constants and Variables
  ## Define multiple related variables of the same type on a single line
  ---

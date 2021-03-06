@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 12 - Step03b
- # The Basics
+ # THE BASICS
  # Optionals
  ## Forced Unwrapping
  ---

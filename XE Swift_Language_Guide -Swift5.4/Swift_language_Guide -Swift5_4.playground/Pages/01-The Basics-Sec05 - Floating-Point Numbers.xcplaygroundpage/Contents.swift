@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 5
- # The Basics
+ # THE BASICS
  # Floating-Point Numbers
  ---
  _**Floating-point numbers**_ are numbers with a fractional component, such as 3.14159, 0.1, and -273.15.

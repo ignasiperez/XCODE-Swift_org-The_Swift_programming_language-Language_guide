@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 12 - Step03a
- # The Basics
+ # THE BASICS
  # Optionals
  ## Compare with if statement an optional with nil
  ---

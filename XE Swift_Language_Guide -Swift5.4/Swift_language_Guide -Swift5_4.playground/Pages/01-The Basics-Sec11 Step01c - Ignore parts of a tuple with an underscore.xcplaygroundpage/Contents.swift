@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 11 - Step01c
- # The Basics
+ # THE BASICS
  # Tuples
  ## Ignore parts of a tuple with an underscore
  ---

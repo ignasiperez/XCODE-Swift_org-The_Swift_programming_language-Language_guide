@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 9 - Step01
- # The Basics
+ # THE BASICS
  # Type Aliases
  ## Using type aliases
  ---

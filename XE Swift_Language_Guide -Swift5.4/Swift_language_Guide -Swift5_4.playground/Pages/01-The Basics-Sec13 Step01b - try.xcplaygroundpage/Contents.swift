@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 13 - Step01b
- # The Basics
+ # THE BASICS
  # Error Hnadling
  ## do, try and catch
  ---

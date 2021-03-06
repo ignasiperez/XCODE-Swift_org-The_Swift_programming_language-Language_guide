@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 7
- # The Basics
+ # THE BASICS
  # Numeric Literals
  ---
  Integer literals can be written as:

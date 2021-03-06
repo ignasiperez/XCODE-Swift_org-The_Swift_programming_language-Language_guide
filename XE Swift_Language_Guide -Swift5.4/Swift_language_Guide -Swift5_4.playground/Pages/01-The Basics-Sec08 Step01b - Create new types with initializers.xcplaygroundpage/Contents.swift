@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 8 - Step01b
- # The Basics
+ # THE BASICS
  # Numeric Type Conversion
  ## Create new types with initializers
  ---

@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 8 - Step01a
- # The Basics
+ # THE BASICS
  # Numeric Type Conversion
  ## Different range for each numeric type
  ---

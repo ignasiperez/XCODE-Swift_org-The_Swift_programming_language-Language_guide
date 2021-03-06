@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 14
- # The Basics
+ # THE BASICS
  # Assertions and Preconditions
  ---
  _**Assertions and preconditions**_ are checks that happen at runtime. You use them to make sure an essential condition is satisfied before executing any further code. If the `Boolean` condition in the _assertion_ or _precondition_ evaluates to `true`, code execution continues as usual. If the condition evaluates to `false`, the current state of the program is invalid; code execution ends, and your app is terminated.

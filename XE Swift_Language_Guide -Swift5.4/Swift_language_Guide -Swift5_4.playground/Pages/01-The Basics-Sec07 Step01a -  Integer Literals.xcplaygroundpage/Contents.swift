@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 7 - Step01a
- # The Basics
+ # THE BASICS
  # Numeric Literals
  ## Integer literals
  ---

@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 11 - Step01e
- # The Basics
+ # THE BASICS
  # Tuples
  ## Name and access individual elements of a tuple
  ---

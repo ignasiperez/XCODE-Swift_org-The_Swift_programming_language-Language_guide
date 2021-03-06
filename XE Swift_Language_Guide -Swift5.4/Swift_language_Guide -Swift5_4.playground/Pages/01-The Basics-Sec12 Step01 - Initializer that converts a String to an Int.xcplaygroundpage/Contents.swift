@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 12 - Step01
- # The Basics
+ # THE BASICS
  # Optionals
  ## Initializer that converts a String to an Int
  ---

@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 12 - Step02b
- # The Basics
+ # THE BASICS
  # Optionals
  ## Define an optional variable without providing a default value
  ---

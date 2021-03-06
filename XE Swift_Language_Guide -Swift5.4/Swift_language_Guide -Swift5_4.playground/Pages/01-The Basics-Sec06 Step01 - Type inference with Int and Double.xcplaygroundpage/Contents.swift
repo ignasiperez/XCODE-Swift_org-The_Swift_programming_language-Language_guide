@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 6 - Step01
- # The Basics
+ # THE BASICS
  # Type Safety and Type Inference
  ## Type inference with Int and Double
  ---

@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 10 - Step01a
- # The Basics
+ # THE BASICS
  # Booleans
  ## Boolean values are useful when working with conditional statements
  ---

@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 10 - Step01b
- # The Basics
+ # THE BASICS
  # Booleans
  ## Bool and type safety
  ---

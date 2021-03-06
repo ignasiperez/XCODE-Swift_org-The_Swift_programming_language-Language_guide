@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 7 - Step01b
- # The Basics
+ # THE BASICS
  # Numeric Literals
  ## Floating-point literals
  ---

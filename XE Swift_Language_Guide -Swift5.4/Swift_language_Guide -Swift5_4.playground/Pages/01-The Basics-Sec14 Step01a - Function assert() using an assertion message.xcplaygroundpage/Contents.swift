@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 14 - Step01a
- # The Basics
+ # THE BASICS
  # Assertions and Preconditions
  ## Function assert(_:_:file_line:) using an assertion message
  ---

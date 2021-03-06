@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 12 - Step04a
- # The Basics
+ # THE BASICS
  # Optionals
  ## Optional Binding
  ---

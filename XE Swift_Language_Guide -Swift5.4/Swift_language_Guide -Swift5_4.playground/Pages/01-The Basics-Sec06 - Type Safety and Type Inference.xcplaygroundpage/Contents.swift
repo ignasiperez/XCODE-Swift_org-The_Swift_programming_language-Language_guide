@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 6
- # The Basics
+ # THE BASICS
  # Type Safety and Type Inference
  ---
  Swift is a _**type-safe**_ language. A _**type safe**_ language encourages you to be clear about the types of values your code can work with. If part of your code requires a `String`, you can’t pass it an `Int` by mistake.

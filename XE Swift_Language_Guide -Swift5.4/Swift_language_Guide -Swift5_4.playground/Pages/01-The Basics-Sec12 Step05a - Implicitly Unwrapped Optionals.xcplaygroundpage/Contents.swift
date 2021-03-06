@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 12 - Step05a
- # The Basics
+ # THE BASICS
  # Optionals
  ## Implicitly Unwrapped Optionals
  ---

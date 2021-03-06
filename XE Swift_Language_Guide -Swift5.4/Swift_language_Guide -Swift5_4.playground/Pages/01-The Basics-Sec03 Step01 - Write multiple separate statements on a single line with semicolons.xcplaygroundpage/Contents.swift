@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 3 - Step01
- # The Basics
+ # THE BASICS
  # Semicolons
  ## Write multiple separate statements on a single line with semicolons
  ---

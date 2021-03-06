@@ -1,7 +1,7 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
  ### 01 - Section 12 - Step05d
- # The Basics
+ # THE BASICS
  # Optionals
  ## Unwrap an implicitly unwrapped optional with if let
  ---
