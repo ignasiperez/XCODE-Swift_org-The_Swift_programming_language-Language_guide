@@ -16,13 +16,14 @@ func makeASandwich() throws {
   // ...
 }
 
-do {
-  try makeASandwich()
-  eatASandwich()
-} catch SandwichError.outOfCleanDishes {
-  washDishes()
-} catch SandwichError.missingIngredients(let ingredients) {
-  buyGroceries(ingredients)
-}
+// Commented so there are no ERRORS
+//do {
+//  try makeASandwich()
+//  eatASandwich()
+//} catch SandwichError.outOfCleanDishes {
+//  washDishes()
+//} catch SandwichError.missingIngredients(let ingredients) {
+//  buyGroceries(ingredients)
+//}
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

@@ -28,6 +28,9 @@
  
  [Sec12 Optionals](<01-The%20Basics-Sec12%20-%20Optionals>)
  
+ [Sec13 Error Handling](<01-The%20Basics-Sec13%20-%20Error%20Handling>)
+ 
+ [Sec14 Assertions and Preconditions](<01-The%20Basics-Sec14%20-%20Assertions%20and%20Preconditions>)
  */
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

@@ -3,7 +3,8 @@
 # Swift Language Guide
 ---
 ### Swift 5.4
-### March 2021
+### Playground version: 1.0
+### Playground date: March 2021
 ---
  [01 The Basics](<01-The%20Basics-Sec00>)
  
