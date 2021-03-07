@@ -1,9 +1,13 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- ### 02 - Section 1
+ ### 02 - Section 2
  # BASIC OPERATORS
- # Assignment Operator
+ # Arithmetic Operators
  ---
- The _**assignment operator**_ (`a = b`) initializes or updates the value of `a` with the value of `b`.
+ Swift supports the four standard arithmetic operators for all number types:
+ + Addition (`+`)
+ + Subtraction (`-`)
+ + Multiplication (`*`)
+ + Division (`/`)
  */
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
