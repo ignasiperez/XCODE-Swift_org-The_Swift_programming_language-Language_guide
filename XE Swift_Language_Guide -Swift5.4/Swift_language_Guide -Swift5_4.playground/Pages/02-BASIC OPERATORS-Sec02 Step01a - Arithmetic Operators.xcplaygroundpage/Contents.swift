@@ -2,6 +2,7 @@
 /*:
  ### 02 - Section 2 - Step01a
  # BASIC OPERATORS
+ # Arithmetic Operators
  ## Arithmetic Operators
  ---
  */

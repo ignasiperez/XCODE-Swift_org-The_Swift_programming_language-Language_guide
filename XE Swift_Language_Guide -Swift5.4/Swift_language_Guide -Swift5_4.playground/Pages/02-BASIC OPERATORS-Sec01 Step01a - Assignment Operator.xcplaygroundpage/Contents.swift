@@ -2,6 +2,7 @@
 /*:
  ### 02 - Section 1 - Step01a
  # BASIC OPERATORS
+ # Assignment Operator
  ## Assignment Operator
  ---
  */
