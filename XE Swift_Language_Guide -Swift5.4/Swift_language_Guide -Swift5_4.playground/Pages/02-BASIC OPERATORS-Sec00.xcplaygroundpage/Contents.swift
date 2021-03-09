@@ -16,8 +16,8 @@
  
  [Sec06 Nil-Coalescing Operator](<02-BASIC%20OPERATORS-Sec06%20-%20Nil-Coalescing%20Operator>)
  
- [Sec07 ](<>)
+ [Sec07 Range Operators](<02-BASIC%20OPERATORS-Sec07%20-%20Range%20Operators>)
  
- [Sec08 ](<>)
+ [Sec08 Logical Operators](<02-BASIC%20OPERATORS-Sec08%20-%20Logical%20Operators>)
  */
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
