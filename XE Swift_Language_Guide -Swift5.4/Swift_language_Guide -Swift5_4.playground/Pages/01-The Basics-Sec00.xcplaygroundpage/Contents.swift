@@ -4,6 +4,8 @@
  # THE BASICS
  ### https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
  ---
+ Swift is a new programming language for iOS, macOS, watchOS, and tvOS app development. Nonetheless, many parts of Swift will be familiar from your experience of developing in C and Objective-C.
+ 
  [Sec01 Constants and Variables](<01-THE%20BASICS-Sec01%20-%20Constants%20and%20Variables>)
  
  [Sec02 Comments](<01-THE%20BASICS-Sec02%20-%20Comments>)

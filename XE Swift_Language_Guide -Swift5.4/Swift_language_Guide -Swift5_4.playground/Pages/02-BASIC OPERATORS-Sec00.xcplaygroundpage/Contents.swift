@@ -4,6 +4,8 @@
  # BASIC OPERATORS
  ### https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
  ---
+ An _operator_ is a special symbol or phrase that you use to check, change, or combine values. For example, the _addition operator_ (`+`) adds two numbers, as in `let i = 1 + 2`, and the `logical AND operator` (`&&`) combines two Boolean values, as in `if enteredDoorCode && passedRetinaScan.
+ 
  [Sec01 Assignment Operator](<02-BASIC%20OPERATORS-Sec01%20-%20Assignment%20Operator>)
  
  [Sec02 Arithmetic Operators](<02-BASIC%20OPERATORS-Sec02%20-%20Arithmetic%20Operators>)
