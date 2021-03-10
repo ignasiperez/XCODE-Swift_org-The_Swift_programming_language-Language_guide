@@ -8,7 +8,7 @@
  
  [Sec01 String Literals](<03-STRINGS%20AND%20CHARACTERS-Sec01%20-%20String%20Literals>)
  
- [Sec02 ](<>)
+ [Sec02 Initializing an Empty String](<03-STRINGS%20AND%20CHARACTERS-Sec02%20-%20Initializing%20an%20Empty%20String>)
  
  [Sec03 ](<>)
  
