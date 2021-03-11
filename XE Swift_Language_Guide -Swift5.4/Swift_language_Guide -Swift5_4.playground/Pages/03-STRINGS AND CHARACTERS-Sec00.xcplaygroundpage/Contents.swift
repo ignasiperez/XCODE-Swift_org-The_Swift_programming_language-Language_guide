@@ -10,16 +10,20 @@
  
  [Sec02 Initializing an Empty String](<03-STRINGS%20AND%20CHARACTERS-Sec02%20-%20Initializing%20an%20Empty%20String>)
  
- [Sec03 ](<>)
+ [Sec03 String Mutability](<03-STRINGS%20AND%20CHARACTERS-Sec03%20-%20String%20Mutability>)
  
- [Sec04 ](<>)
+ [Sec04 Strings Are Value Types](<03-STRINGS%20AND%20CHARACTERS-Sec04%20-%20Strings%20Are%20Value%20Types>)
  
- [Sec05 ](<>)
+ [Sec05 Working with Characters](<03-STRINGS%20AND%20CHARACTERS-Sec05%20-%20Working%20with%20Characters>)
  
- [Sec06 ](<>)
+ [Sec06 Concatenating Strings and Characters](<03-STRINGS%20AND%20CHARACTERS-Sec06%20-%20Concatenating%20Strings%20and%20Characters>)
  
- [Sec07 ](<>)
+ [Sec07 String Interpolation](<03-STRINGS%20AND%20CHARACTERS-Sec07%20-%20String%20Interpolation>)
  
- [Sec08 ](<>)
+ [Sec08 Unicode](<03-STRINGS%20AND%20CHARACTERS-Sec08%20-%20Unicode>)
+ 
+ [Sec09 Counting Characters](<03-STRINGS%20AND%20CHARACTERS-Sec09%20-%20Counting%20Characters>)
+ 
+ [Sec10 ](<>)
  */
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
