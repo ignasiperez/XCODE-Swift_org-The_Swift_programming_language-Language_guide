@@ -24,6 +24,12 @@
  
  [Sec09 Counting Characters](<03-STRINGS%20AND%20CHARACTERS-Sec09%20-%20Counting%20Characters>)
  
- [Sec10 ](<>)
+ [Sec10 Accessing and Modifying a String](<03-STRINGS%20AND%20CHARACTERS-Sec10%20-%20Accessing%20and%20Modifying%20a%20String>)
+ 
+ [Sec11 Substrings](<03-STRINGS%20AND%20CHARACTERS-Sec11%20-%20Substrings>)
+ 
+ [Sec12 Comparing Strings](<03-STRINGS%20AND%20CHARACTERS-Sec12%20-%20Comparing%20Strings>)
+ 
+ [Sec13 Unicode Representations of Strings](<03-STRINGS%20AND%20CHARACTERS-Sec13%20-%20Unicode%20Representations%20of%20Strings>)
  */
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
