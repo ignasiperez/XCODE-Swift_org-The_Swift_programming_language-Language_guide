@@ -9,7 +9,7 @@
  [Sec01 Mutability of Collections](<04-COLLECTION%20TYPES-Sec01%20-%20Mutability%20of%20Collections>)
  
  
- [Sec02 ](<>)
+ [Sec02 Arrays](<04-COLLECTION%20TYPES-Sec02%20-%20Arrays>)
  
  [Sec03 ](<>)
  
