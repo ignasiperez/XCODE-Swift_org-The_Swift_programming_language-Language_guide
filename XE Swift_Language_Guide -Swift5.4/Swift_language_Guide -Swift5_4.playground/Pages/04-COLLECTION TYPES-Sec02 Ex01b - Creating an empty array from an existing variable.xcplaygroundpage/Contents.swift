@@ -3,7 +3,7 @@
  ### 04 - Section 2 - Example 01b
  # COLLECTION TYPES
  # Arays
- ## Create an empty array from an existing variable
+ ## Creating an empty array from an existing variable
  ---
  */
 
