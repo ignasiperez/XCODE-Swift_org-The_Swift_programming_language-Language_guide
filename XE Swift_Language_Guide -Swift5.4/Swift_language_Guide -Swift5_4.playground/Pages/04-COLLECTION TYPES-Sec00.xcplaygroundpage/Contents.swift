@@ -15,7 +15,7 @@
  
  [Sec04 Performing Set Operations](<04-COLLECTION%20TYPES-Sec04%20-%20Performing%20Set%20Operations>)
  
- [Sec05 ](<>)
+ [Sec05 Dictionaries](<04-COLLECTION%20TYPES-Sec05%20-%20Dictionaries>)
  
  [Sec06 ](<>)
  
