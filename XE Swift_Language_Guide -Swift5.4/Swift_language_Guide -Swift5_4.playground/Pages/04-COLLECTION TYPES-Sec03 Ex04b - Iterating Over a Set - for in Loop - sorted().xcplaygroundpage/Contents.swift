@@ -3,7 +3,7 @@
  ### 04 - Section 3 - Example 04b
  # COLLECTION TYPES
  # Arays
- ## Iterating Over an Array - for in Loop - enumerated()
+ ## Iterating Over an Array - for in Loop - sorted()
  ---
  */
 

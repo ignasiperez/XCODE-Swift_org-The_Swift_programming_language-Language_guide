@@ -11,9 +11,9 @@
  
  [Sec02 Arrays](<04-COLLECTION%20TYPES-Sec02%20-%20Arrays>)
  
- [Sec03 ](<>)
+ [Sec03 Sets](<04-COLLECTION%20TYPES-Sec03%20-%20Sets>)
  
- [Sec04 ](<>)
+ [Sec04 Performing Set Operations](<04-COLLECTION%20TYPES-Sec04%20-%20Performing%20Set%20Operations>)
  
  [Sec05 ](<>)
  
