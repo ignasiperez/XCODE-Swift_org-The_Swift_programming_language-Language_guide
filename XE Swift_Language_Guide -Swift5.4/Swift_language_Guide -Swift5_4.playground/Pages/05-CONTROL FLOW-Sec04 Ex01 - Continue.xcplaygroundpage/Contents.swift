@@ -2,8 +2,8 @@
 /*:
  ### 05 - Section 4 - Example 01
  # CONTROL FLOW
- # While Loops
- ## Snakes and Ladders - While
+ # Control Transfer Statements
+ ## Continue
  ---
  */
 
@@ -14,6 +14,18 @@ import Foundation
 
 print("\n--- 05-Sec04-Ex01 ---")
 
+let puzzleInput = "great minds think alike"
+var puzzleOutput = ""
+let charactersToRemove: [Character] = ["a", "e", "i", "o", "u", " "]
 
+for character in puzzleInput {
+  if charactersToRemove.contains(character) {
+    continue
+  }
+  puzzleOutput.append(character)
+}
+
+print(puzzleOutput)
+// Prints "grtmndsthnklk"
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
