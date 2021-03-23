@@ -14,7 +14,9 @@
  
  [Sec04 Control Transfer Statements](<05-CONTROL%20FLOW-Sec04%20-%20Control%20Transfer%20Statements>)
  
- [Sec06 ](<>)
+ [Sec05 Early Exit](<05-CONTROL%20FLOW-Sec05%20-%20Early%20Exit>)
+ 
+ [Sec06 Checking API Availability](<05-CONTROL%20FLOW-Sec06%20-%20Checking%20API%20Availability>)
  
  
  */

@@ -10,7 +10,7 @@
 import Foundation
 
 
-// ******************** 05-Sec04-Ex4********************
+// ******************** 05-Sec04-Ex04 ********************
 
 let finalSquare = 25
 
@@ -22,12 +22,14 @@ board[14] = -10; board[19] = -11; board[22] = -02; board[24] = -08
 var square = 0
 var diceRoll = 0
 
-print("\n--- 05-Sec04-Ex04 ---")
 
+print("\n--- 05-Sec04-Ex04 ---")
 
 gameLoop: while square != finalSquare {
   diceRoll += 1
+  print("\ndiceRoll: \(diceRoll)")
   if diceRoll == 7 { diceRoll = 1 }
+  
   switch square + diceRoll {
   case finalSquare:
     // diceRoll will move us to the final square, so the game is over
@@ -38,9 +40,12 @@ gameLoop: while square != finalSquare {
   default:
     // this is a valid move, so find out its effect
     square += diceRoll
+    print("  square: \(square)")
     square += board[square]
+    print("  square: \(square)")
   }
 }
+
 print("Game over!")
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
