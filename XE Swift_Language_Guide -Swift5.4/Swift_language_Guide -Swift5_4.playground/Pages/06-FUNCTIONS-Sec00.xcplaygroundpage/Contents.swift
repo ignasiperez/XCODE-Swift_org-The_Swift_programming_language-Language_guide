@@ -10,7 +10,7 @@
  
  [Sec02 Function Parameters and Return Values](<06-FUNCTIONS-Sec02%20-%20Function%20Parameters%20and%20Return%20Values>)
  
- [Sec03 ](<>)
+ [Sec03 Function Argument Labels and Parameter Names](<06-FUNCTIONS-Sec03%20-%20Function%20Argument%20Labels%20and%20Parameter%20Names>)
  
  [Sec04 ](<>)
  
