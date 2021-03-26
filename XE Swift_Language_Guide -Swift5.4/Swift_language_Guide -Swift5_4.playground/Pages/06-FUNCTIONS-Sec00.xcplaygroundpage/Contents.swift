@@ -12,12 +12,8 @@
  
  [Sec03 Function Argument Labels and Parameter Names](<06-FUNCTIONS-Sec03%20-%20Function%20Argument%20Labels%20and%20Parameter%20Names>)
  
- [Sec04 ](<>)
+ [Sec04 Function Types](<06-FUNCTIONS-Sec04%20-%20Function%20Types>)
  
- [Sec05 ](<>)
- 
- [Sec06 Checking API Availability](<05-CONTROL%20FLOW-Sec06%20-%20Checking%20API%20Availability>)
- 
- 
+ [Sec05 Nested Functions](<06-FUNCTIONS-Sec05%20-%20Nested%20Functions>)
  */
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
