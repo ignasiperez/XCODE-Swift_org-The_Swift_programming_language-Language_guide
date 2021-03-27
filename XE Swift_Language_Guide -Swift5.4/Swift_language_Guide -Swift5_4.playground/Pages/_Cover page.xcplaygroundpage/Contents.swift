@@ -18,6 +18,8 @@
  
  [06 FUNCTIONS](<06-FUNCTIONS-Sec00>)
  
+ [07 CLOSURES](<07-CLOSURES-Sec00>)
+ 
  [08 Enumerations](<08-Enumerations-Sec00%20-%20Enumerations>)
  
  [09 Structures and Classes](<09-Structures%20and%20Classes%20-%20Structures%20and%20Classes>)
