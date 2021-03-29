@@ -10,9 +10,11 @@
  
  [Sec02 Trailing Closures](<07-CLOSURES-Sec02%20-%20Trailing%20Closures>)
  
- [Sec03 ](<>)
+ [Sec03 Capturing Values](<07-CLOSURES-Sec03%20-%20Capturing%20Values>)
  
  [Sec04 ](<>)
+ 
+ [Sec05 ](<>)
  
  [Sec05 ](<>)
  */
