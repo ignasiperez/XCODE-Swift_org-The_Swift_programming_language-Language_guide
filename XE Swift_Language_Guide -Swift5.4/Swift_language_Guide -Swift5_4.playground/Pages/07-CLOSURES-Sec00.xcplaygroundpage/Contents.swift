@@ -8,7 +8,7 @@
  
  [Sec01 Closure Expressions](<07-CLOSURES-Sec01%20-%20Closure%20Expressions>)
  
- [Sec02 ](<>)
+ [Sec02 Trailing Closures](<07-CLOSURES-Sec02%20-%20Trailing%20Closures>)
  
  [Sec03 ](<>)
  
