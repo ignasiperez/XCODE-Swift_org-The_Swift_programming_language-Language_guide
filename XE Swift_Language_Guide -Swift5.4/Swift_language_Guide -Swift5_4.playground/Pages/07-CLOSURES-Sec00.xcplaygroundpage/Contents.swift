@@ -12,10 +12,12 @@
  
  [Sec03 Capturing Values](<07-CLOSURES-Sec03%20-%20Capturing%20Values>)
  
- [Sec04 ](<>)
+ [Sec04 Closures Are Reference Types](<07-CLOSURES-Sec04%20-%20Closures%20Are%20Reference%20Types>)
  
- [Sec05 ](<>)
+ [Sec05 Escaping Closures](<07-CLOSURES-Sec05%20-%20Escaping%20Closures>)
  
- [Sec05 ](<>)
+ [Sec06 ](<>)
+ 
+ [Sec07 ](<>)
  */
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

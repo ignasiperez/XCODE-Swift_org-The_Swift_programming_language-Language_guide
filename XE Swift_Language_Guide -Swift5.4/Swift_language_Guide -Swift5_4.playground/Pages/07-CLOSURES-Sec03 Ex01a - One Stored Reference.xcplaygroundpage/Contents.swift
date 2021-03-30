@@ -1,16 +1,18 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- ### 07 - Section 3 - Example 01b
+ ### 07 - Section 3 - Example 01a
  # CLOSURES
  # Capturing Values
- ## Another Stored Reference
+ ## One Stored Reference
  ---
  */
 
 import Foundation
 
 
-// ******************** 07-Sec03-Ex01b ********************
+// ******************** 07-Sec03-Ex01a ********************
+
+print("\n--- 07-Sec01-Ex01a ---")
 
 func makeIncrementer(forIncrement amount: Int)
 -> () -> Int {
@@ -29,29 +31,16 @@ let incrementByTen = makeIncrementer(forIncrement: 10)
 print("incrementByTen: \(String(describing: incrementByTen))")
 print("type Of: \(type(of: incrementByTen))")
 
-let result1 = incrementByTen()
+let result10 = incrementByTen()
 // returns a value of 10
-print("result1: \(result1)")
+print("result10: \(result10)")
 
-let result2 = incrementByTen()
+let result20 = incrementByTen()
 // returns a value of 20
-print("result2: \(result2)")
+print("result20: \(result20)")
 
-let result3 = incrementByTen()
+let result30 = incrementByTen()
 // returns a value of 30
-print("result3: \(result3)")
-
-
-print("\n--- 07-Sec01-Ex01b ---")
-
-let incrementBySeven = makeIncrementer(forIncrement: 7)
-
-let result4 = incrementBySeven()
-// returns a value of 7
-print("result4: \(result4)")
-
-let result5 = incrementByTen()
-// returns a value of 40
-print("result5: \(result5)")
+print("result30: \(result30)")
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
