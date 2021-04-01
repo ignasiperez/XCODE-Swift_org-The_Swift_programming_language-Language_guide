@@ -12,13 +12,11 @@
  
  [Sec03 Iterating over Enumeration Cases](<08-ENUMERATIONS-Sec03%20-%20Iterating%20over%20Enumeration%20Cases>)
  
- [Sec04 ](<>)
+ [Sec04 Associated Values](<08-ENUMERATIONS-Sec04%20-%20Associated%20Values>)
  
- [Sec05 ](<>)
+ [Sec05 Raw Values](<08-ENUMERATIONS-Sec05%20-%20Raw%20Values>)
  
- [Sec06 ](<>)
- 
- [Sec07 ](<>)
+ [Sec06 Recursive Enumerations](<08-ENUMERATIONS-Sec06%20-%20Recursive%20Enumerations>)
  */
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

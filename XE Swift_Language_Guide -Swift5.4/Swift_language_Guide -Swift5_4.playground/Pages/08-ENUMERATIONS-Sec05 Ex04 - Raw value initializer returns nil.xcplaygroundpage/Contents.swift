@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
+ ### 08 - Section 5 - Example 04
  # ENUMERATIONS
- ## Section 6 - Step01
+ # Raw Values
  ## Raw value initializer returns nil
  ---
  */
@@ -9,13 +10,14 @@
 import Foundation
 
 
-// ******************** Sec05-Step01 ********************
+// ******************** 08-Sec05-Ex04 ********************
 
 enum Planet: Int {
   case mercury = 1, venus, earth, mars, jupiter, saturn, uranus, neptune
 }
 
-print("\n--- Sec06-Step01 ---")
+
+print("\n--- 08-Sec05-Ex04 ---")
 
 let positionToFind = 11
 
@@ -30,7 +32,5 @@ if let somePlanet = Planet(rawValue: positionToFind) {
   print("There isn't a planet at position \(positionToFind)")
 }
 // Prints "There isn't a planet at position 11"
-
-
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

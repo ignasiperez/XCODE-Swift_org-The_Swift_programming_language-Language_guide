@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
+ ### 08 - Section 6 - Example 01b
  # ENUMERATIONS
- ## Section 7 - Step01
+ # Recursive enumerations
  ## Write indirect before the beginning of the enumeration
  ---
  */
@@ -9,14 +10,12 @@
 import Foundation
 
 
-// ******************** Sec07-Step01 ********************
+// ******************** 08-Sec06-Ex01b ********************
 
 indirect enum ArithmeticExpression {
   case number(Int)
   case addition(ArithmeticExpression, ArithmeticExpression)
   case multiplication(ArithmeticExpression, ArithmeticExpression)
 }
-
-
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

@@ -1,15 +1,16 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
+ ### 08 - Section 4 - Example 01a
  # ENUMERATIONS
- ## Section 4
- ## Associated Values
+ # Associated Values
+ ## Associated values of different types in the same enumeration
  ---
  */
 
 import Foundation
 
 
-// ******************** Sec04-Step00 ********************
+// ******************** 08-Sec04-Ex01a ********************
 
 enum Barcode {
   case upc(Int, Int, Int, Int)

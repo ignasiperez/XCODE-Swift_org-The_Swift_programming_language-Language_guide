@@ -1,24 +1,19 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
+ ### 08 - Section 5 - Example 02a
  # ENUMERATIONS
- ## Section 6
- ## Initializing from a Raw Value
+ # Raw Values
+ ## Explicit raw value of type Int
  ---
  */
 
 import Foundation
 
 
-// ******************** Sec06-Step00 ********************
+// ******************** Sec05-Step02a ********************
 
 enum Planet: Int {
   case mercury = 1, venus, earth, mars, jupiter, saturn, uranus, neptune
 }
-
-
-print("\n--- Ex06-Step00 ---")
-let possiblePlanet = Planet(rawValue: 7)
-// possiblePlanet is of type Planet? and equals Planet.uranus
-print("possiblePlanet: \(String(describing: possiblePlanet))")
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

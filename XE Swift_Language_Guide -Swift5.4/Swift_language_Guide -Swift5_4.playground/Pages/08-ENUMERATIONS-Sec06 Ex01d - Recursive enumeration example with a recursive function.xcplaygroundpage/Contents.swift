@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
+ ### 08 - Section 6 - Example 01d
  # ENUMERATIONS
- ## Section 7 - Step02b
+ # Recursive enumerations
  ## Recursive enumeration example with a recursive function
  ---
  */
@@ -9,7 +10,7 @@
 import Foundation
 
 
-// ******************** Sec07-Step02b ********************
+// ******************** 08-Sec06-Ex01d ********************
 
 indirect enum ArithmeticExpression {
   case number(Int)
@@ -25,6 +26,9 @@ let sum = ArithmeticExpression.addition(five, four)
 let product = ArithmeticExpression.multiplication(sum,
                                                   ArithmeticExpression.number(2))
 
+
+print("\n--- 08-Sec06-Ex01d ---")
+
 func evaluate(_ expression: ArithmeticExpression) -> Int {
   switch expression {
   case let .number(value):
@@ -36,7 +40,6 @@ func evaluate(_ expression: ArithmeticExpression) -> Int {
   }
 }
 
-print("\n--- Sec07-Step02b ---")
 print(evaluate(product))
 // Prints "18"
 

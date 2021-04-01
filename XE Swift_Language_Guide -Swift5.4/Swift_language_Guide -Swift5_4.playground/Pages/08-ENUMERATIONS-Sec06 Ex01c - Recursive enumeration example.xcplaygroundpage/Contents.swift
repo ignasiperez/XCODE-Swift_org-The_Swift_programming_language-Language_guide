@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
+ ### 08 - Section 6 - Example 01c
  # ENUMERATIONS
- ## Section 7 - Step02a
+ # Recursive enumerations
  ## Recursive enumeration example
  ---
  */
@@ -9,7 +10,7 @@
 import Foundation
 
 
-// ******************** Sec07-Step02a ********************
+// ******************** 08-Sec06-Ex01c ********************
 
 indirect enum ArithmeticExpression {
   case number(Int)
@@ -18,11 +19,14 @@ indirect enum ArithmeticExpression {
 }
 
 
+print("\n--- 08-Ex06-Ex01c ---")
+
 // The code below shows the ArithmeticExpression recursive enumeration being created for (5 + 4) * 2
 let five = ArithmeticExpression.number(5)
 let four = ArithmeticExpression.number(4)
 let sum = ArithmeticExpression.addition(five, four)
-let product = ArithmeticExpression.multiplication(sum,
-                                                  ArithmeticExpression.number(2))
+let product =
+  ArithmeticExpression.multiplication(sum,
+                                      ArithmeticExpression.number(2))
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

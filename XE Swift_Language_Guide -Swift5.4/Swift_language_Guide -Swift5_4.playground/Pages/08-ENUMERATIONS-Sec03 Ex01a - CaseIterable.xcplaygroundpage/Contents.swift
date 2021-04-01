@@ -3,7 +3,7 @@
  ### 08 - Section 3 - Example 01a
  # ENUMERATIONS
  # Iterating over Enumeration Cases
- ## CaseIterable
+ ## CaseIterable and allCases
  ---
  */
 

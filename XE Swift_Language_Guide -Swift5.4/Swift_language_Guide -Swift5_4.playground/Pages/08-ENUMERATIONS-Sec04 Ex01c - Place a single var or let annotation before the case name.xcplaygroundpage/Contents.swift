@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
+ ### 08 - Section 4 - Example 01c
  # ENUMERATIONS
- ## Section 4 - Step01b
+ # Associated Values
  ## Place a single var or let annotation before the case name
  ---
  */
@@ -9,7 +10,7 @@
 import Foundation
 
 
-// ******************** Sec04-Step01b ********************
+// ******************** 08-Sec04-Step01c ********************
 
 enum Barcode {
   case upc(Int, Int, Int, Int)
@@ -21,10 +22,13 @@ var productBarcode = Barcode.upc(8, 85909, 51226, 3)
 
 productBarcode = .qrCode("ABCDEFGHIJKLMNOP")
 
-print("\n--- Sec04-Step01b ---")
+print("\n--- 08-Sec04-Step01c ---")
 
 switch productBarcode {
-case let .upc(numberSystem, manufacturer, product, check):
+case let .upc(numberSystem,
+              manufacturer,
+              product,
+              check):
     print("UPC : \(numberSystem), \(manufacturer), \(product), \(check).")
 case let .qrCode(productCode):
     print("QR code: \(productCode).")
