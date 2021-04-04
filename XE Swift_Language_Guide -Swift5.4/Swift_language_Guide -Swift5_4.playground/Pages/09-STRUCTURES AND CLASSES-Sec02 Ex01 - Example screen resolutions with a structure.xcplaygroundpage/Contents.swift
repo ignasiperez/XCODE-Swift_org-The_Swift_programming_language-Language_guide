@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Structures and Classes
- ## Section 2
+ ### 09 - Section 2- Example 01
+ # STRUCTURES AND CLASSES
+ # Structures and Enumerations Are Value Types
  ## Example screen resolutions with a structure
  ---
  */
@@ -11,6 +12,7 @@ import Foundation
 
 // ******************** Sec02-Step00 ********************
 
+print("\n--- 09-Sec02-Step00 ---")
 
 struct Resolution {
   var width = 0
@@ -24,7 +26,7 @@ var cinema = hd
 
 cinema.width = 2048
 
-print("\n--- Sec02-Step00 ---")
+
 print("cinema is now \(cinema.width) pixels wide")
 // Prints "cinema is now 2048 pixels wide"
 

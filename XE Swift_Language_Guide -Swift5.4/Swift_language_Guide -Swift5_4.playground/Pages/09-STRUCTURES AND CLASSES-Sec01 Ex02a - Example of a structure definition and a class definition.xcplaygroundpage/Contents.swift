@@ -1,15 +1,16 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Structures and Classes
- ## Section 1 - Step01a
- ## Example of a structure definition and a class definition
+ ### 09 - Section 1 - Example 02a
+ # STRUCTURES AND CLASSES
+ # Definition Syntax
+ ## Defining a structure and a class
  ---
  */
 
 import Foundation
 
 
-// ******************** Sec01-Step01a********************
+// ******************** 09-Sec01-Ex02a********************
 
 struct Resolution {
   var width = 0

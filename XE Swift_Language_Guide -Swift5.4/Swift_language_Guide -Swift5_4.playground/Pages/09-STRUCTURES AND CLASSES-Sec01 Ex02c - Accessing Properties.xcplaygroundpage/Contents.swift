@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Structures and Classes
- ## Section 1 - Step01c
+ ### 09 - Section 1 - Example 02c
+ # STRUCTURES AND CLASSES
+ # Definition Syntax
  ## Accessing Properties
  ---
  */
@@ -9,7 +10,7 @@
 import Foundation
 
 
-// ******************** Sec01-Step01c********************
+// ******************** Sec01-Step02c********************
 
 struct Resolution {
   var width = 0
@@ -28,7 +29,9 @@ class VideoMode {
 let someResolution = Resolution()
 let someVideoMode = VideoMode()
 
-print("\n--- Sec01-Step01c ---")
+
+print("\n--- 09-Sec01-Ex02c ---")
+
 print("The width of someResolution is \(someResolution.width)")
 // Prints "The width of someResolution is 0"
 

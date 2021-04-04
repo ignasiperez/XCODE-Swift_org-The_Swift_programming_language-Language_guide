@@ -4,7 +4,7 @@
 ---
 ### Swift 5.4
 ### Playground version: 1.0
-### Playground date: April 2021
+### Playground update: April 2021
 ---
  [01 THE BASICS](<01-THE%20BASICS-Sec00>)
  
@@ -22,7 +22,7 @@
  
  [08 ENUMERATIONS](<08-ENUMERATIONS-Sec00>)
  
- [09 Structures and Classes](<09-Structures%20and%20Classes%20-%20Structures%20and%20Classes>)
+ [09 STRUCTURES AND CLASSES](<09-STRUCTURES%20AND%20CLASSES-Sec00>)
  
  [10 Properties](<10-Properties-Sec00%20-%20Properties>)
  

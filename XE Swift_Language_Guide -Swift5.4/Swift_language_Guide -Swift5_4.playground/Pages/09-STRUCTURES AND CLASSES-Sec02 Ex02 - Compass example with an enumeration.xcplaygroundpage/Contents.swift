@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Structures and Classes
- ## Section 1 - Step01
+ ### 09 - Section 2 - Example 02
+ # STRUCTURES AND CLASSES
+ # Structures and Enumerations Are Value Types
  ## Compass example with an enumeration
  ---
  */
@@ -9,7 +10,9 @@
 import Foundation
 
 
-// ******************** Sec02-Step01********************
+// ******************** 09-Sec02-Step02********************
+
+print("\n--- 09-Sec02-Step02 ---")
 
 enum CompassPoint {
   case north, south, east, west
@@ -24,7 +27,6 @@ var currentDirection = CompassPoint.west
 let rememberedDirection = currentDirection
 currentDirection.turnNorth()
 
-print("\n--- Sec02-Step01 ---")
 print("The current direction is \(currentDirection)")
 print("The remembered direction is \(rememberedDirection)")
 // Prints "The current direction is north"

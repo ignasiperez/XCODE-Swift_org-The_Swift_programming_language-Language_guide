@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Structures and Classes
- ## Section 1 - Step01d
+ ### 09 - Section 1 - Example 02d
+ # STRUCTURES AND CLASSES
+ # Definition Syntax
  ## Memberwise Initializers for Structure Types
  ---
  */
@@ -18,6 +19,7 @@ struct Resolution {
 
 
 print("\n--- Sec01-Step01d ---")
+
 let vga = Resolution(width: 640, height: 480)
 print("vga.width: \(vga.width)")
 print("vga.height: \(vga.height)")

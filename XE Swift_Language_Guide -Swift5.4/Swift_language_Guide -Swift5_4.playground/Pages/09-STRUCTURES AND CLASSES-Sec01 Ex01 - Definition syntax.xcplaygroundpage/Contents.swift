@@ -1,15 +1,16 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Structures and Classes
- ## Section 1
- ## Definition Syntax
+ ### 09 - Section 1 - Example 01
+ # STRUCTURES AND CLASSES
+ # Definition Syntax
+ ## Struct and class keywords
  ---
  */
 
 import Foundation
 
 
-// ******************** Sec01-Step00 ********************
+// ******************** 09-Sec01-Ex01 ********************
 
 struct SomeStructure {
   // structure definition goes here
@@ -18,20 +19,6 @@ struct SomeStructure {
 
 class SomeClass {
   // class definition goes here
-}
-
-
-struct Resolution {
-    var width = 0
-    var height = 0
-}
-
-
-class VideoMode {
-    var resolution = Resolution()
-    var interlaced = false
-    var frameRate = 0.0
-    var name: String?
 }
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

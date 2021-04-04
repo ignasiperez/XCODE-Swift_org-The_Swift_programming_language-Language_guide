@@ -1,15 +1,16 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Structures and Classes
- ## Section 3 - Step01c
- ## Identity Operators
+ ### 09 - Section 3 - Example 01a
+ # STRUCTURES AND CLASSES
+ # Classes Are Reference Types
+ ## Two constants for the same single instance
  ---
  */
 
 import Foundation
 
 
-// ******************** Sec03-Step01c********************
+// ******************** Sec03-Step01a ********************
 
 struct Resolution {
   var width = 0
@@ -33,14 +34,16 @@ tenEighty.interlaced = true
 tenEighty.name = "1080i"
 tenEighty.frameRate = 25.0
 
+
+print("\n--- 09-Sec03-Ex01a ---")
+
+print("tenEighty.frameRate: \(tenEighty.frameRate)")
+
 let alsoTenEighty = tenEighty
 alsoTenEighty.frameRate = 30.0
 
-
-if tenEighty === alsoTenEighty {
-  print("\n--- Sec03-Step01c ---")
-  print("tenEighty and alsoTenEighty refer to the same VideoMode instance.")
-}
-// Prints "tenEighty and alsoTenEighty refer to the same VideoMode instance."
+print("alsoTenEighty.frameRate: \(alsoTenEighty.frameRate)")
+print("The frameRate property of tenEighty is now \(tenEighty.frameRate)")
+// Prints "The frameRate property of tenEighty is now 30.0"
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
