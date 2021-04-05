@@ -1,21 +1,24 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 1 - Step01b
- ## Example Stored Property of Constant Structure Instance
+ ### 10 - Section 1 - Example 01b
+ # PROPERTIES
+ # Stored Properties
+ ## Stored Property of Constant Structure Instance
  ---
  */
 
 import Foundation
 
 
-// ******************** Sec01-Step01b ********************
+// ******************** 10-Sec01-Ex01b ********************
 
 struct FixedLengthRange {
   var firstValue: Int
   let length: Int
 }
 
+
+print("\n--- 10-Sec01-Ex01b ---")
 
 let rangeOfFourItems = FixedLengthRange(firstValue: 0, length: 4)
 // this range represents integer values 0, 1, 2, and 3

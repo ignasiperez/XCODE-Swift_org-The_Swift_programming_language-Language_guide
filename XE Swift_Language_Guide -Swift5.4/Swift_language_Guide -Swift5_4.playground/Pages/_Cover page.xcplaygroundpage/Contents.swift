@@ -24,7 +24,7 @@
  
  [09 STRUCTURES AND CLASSES](<09-STRUCTURES%20AND%20CLASSES-Sec00>)
  
- [10 Properties](<10-Properties-Sec00%20-%20Properties>)
+ [10 PROPERTIES](<10-PROPERTIES-Sec00>)
  
 */
 //: # [                         􀄫](@next)

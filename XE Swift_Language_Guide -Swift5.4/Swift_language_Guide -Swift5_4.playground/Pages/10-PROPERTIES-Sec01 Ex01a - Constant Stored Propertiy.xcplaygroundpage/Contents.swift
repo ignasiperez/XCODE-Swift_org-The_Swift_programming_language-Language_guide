@@ -1,15 +1,18 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 1 - Step01a
- ## Example Constant Stored Property
+ ### 10 - Section 1 - Example 01a
+ # PROPERTIES
+ # Stored Properties
+ ## Constant Stored Property
  ---
  */
 
 import Foundation
 
 
-// ******************** Sec01-Step01a ********************
+// ******************** 10-Sec01-Ex01a ********************
+
+print("\n--- 10-Sec01-Ex01a ---")
 
 struct FixedLengthRange {
   var firstValue: Int

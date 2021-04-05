@@ -1,15 +1,18 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 1 - Step02
- ## Example Lazy Stored Property
+ ### 10 - Section 1 - Example 02
+ # PROPERTIES
+ # Stored Properties
+ ## Lazy Modifier
  ---
  */
 
 import Foundation
 
 
-// ******************** Sec01-Step02 ********************
+// ******************** 10-Sec01-Ex02 ********************
+
+print("\n--- 10-Sec01-Ex02 ---")
 
 class DataImporter {
   /*
@@ -33,7 +36,6 @@ manager.data.append("Some data")
 manager.data.append("Some more data")
 // the DataImporter instance for the importer property hasn't yet been created
 
-print("\n--- Sec01-Step02 ---")
 print(manager.importer.filename)
 // the DataImporter instance for the importer property has now been created
 // Prints "data.txt"

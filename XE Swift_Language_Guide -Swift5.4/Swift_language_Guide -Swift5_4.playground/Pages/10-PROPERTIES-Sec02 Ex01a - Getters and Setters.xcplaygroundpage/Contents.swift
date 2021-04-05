@@ -1,15 +1,18 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 2 - Step01a
- ## Example Constant Stored Property
+ ### 10 - Section 2 - Example 01a
+ # PROPERTIES
+ # Computed Properties
+ ## Getters and Setters
  ---
  */
 
 import Foundation
 
 
-// ******************** Sec01-Step01a ********************
+// ******************** 10-Sec02-Step01a ********************
+
+print("\n--- 10-Sec02-Ex01a ---")
 
 struct Point {
   var x = 0.0, y = 0.0
@@ -44,12 +47,11 @@ var square = Rect(origin: Point(x: 0.0, y: 0.0),
                   size: Size(width: 10.0, height: 10.0))
 
 let initialSquareCenter = square.center
+print("The initial square center is (\(initialSquareCenter.x), \(initialSquareCenter.y))")
+
 square.center = Point(x: 15.0, y: 15.0)
 
-print("\n--- Sec02-Step01a ---")
 print("square.origin is now at (\(square.origin.x), \(square.origin.y))")
 // Prints "square.origin is now at (10.0, 10.0)"
-
-
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
