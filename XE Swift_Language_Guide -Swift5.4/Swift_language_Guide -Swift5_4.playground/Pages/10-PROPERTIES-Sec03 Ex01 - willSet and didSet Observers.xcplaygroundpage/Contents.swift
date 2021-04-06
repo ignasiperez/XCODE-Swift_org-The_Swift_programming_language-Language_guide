@@ -1,20 +1,23 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 3 - Step01
- ## Example Property Observer
+ ### 10 - Section 3 - Example 01
+ # PROPERTIES
+ # Property Observers
+ ## willSet and didSet Observers
  ---
  */
 
 import Foundation
 
 
-// ******************** Sec03-Step01 ********************
+// ******************** 10-Sec03-Ex01 ********************
+
+print("\n--- 10-Sec03-Ex01 ---")
 
 class StepCounter {
   var totalSteps: Int = 0 {
     willSet(newTotalSteps) {
-      print("About to set totalSteps to \(newTotalSteps)")
+      print("\nAbout to set totalSteps to \(newTotalSteps)")
     }
     
     didSet {
@@ -31,7 +34,6 @@ class StepCounter {
 
 let stepCounter = StepCounter()
 
-print("\n--- Sec03-Step01 ---")
 stepCounter.totalSteps = 200
 // About to set totalSteps to 200
 // Added 200 steps

@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 4 - Step01b
+ ### 10 - Section 4 - Example 01b
+ # PROPERTIES
+ # Property Wrappers
  ## Apply a Wrapper to a Property 
  ---
  */

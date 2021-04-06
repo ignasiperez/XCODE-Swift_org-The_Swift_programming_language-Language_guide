@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 4 - Step01c
+ ### 10 - Section 4 - Example 01c
+ # PROPERTIES
+ # Property Wrappers
  ## Do not use the attribute TwelveOrLess
  ---
  */

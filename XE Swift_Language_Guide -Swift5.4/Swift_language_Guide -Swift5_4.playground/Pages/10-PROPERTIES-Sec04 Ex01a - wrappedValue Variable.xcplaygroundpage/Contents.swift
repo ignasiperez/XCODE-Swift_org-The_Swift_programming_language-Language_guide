@@ -1,15 +1,16 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 4 - Step01a
- ## Example Property Wrapper
+ ### 10 - Section 4 - Example 01a
+ # PROPERTIES
+ # Property Wrappers
+ ## wrappedValue Variable
  ---
  */
 
 import Foundation
 
 
-// ******************** Sec04-Step01a ********************
+// ******************** 10-Sec04-Ex01a ********************
 
 @propertyWrapper
 struct TwelveOrLess {

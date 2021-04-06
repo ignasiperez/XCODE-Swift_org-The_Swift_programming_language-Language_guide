@@ -9,9 +9,9 @@
  
  [Sec02 Computed Properties](<10-PROPERTIES-Sec02%20-%20Computed%20Properties>)
  
- [Sec03 ](<>)
+ [Sec03 Property Observers](<10-PROPERTIES-Sec03%20-%20Property%20Observers>)
  
- [Sec04 ](<>)
+ [Sec04 Property Wrappers](<10-PROPERTIES-Sec04%20-%20Property%20Wrappers>)
  
  [Sec05 ](<>)
  
