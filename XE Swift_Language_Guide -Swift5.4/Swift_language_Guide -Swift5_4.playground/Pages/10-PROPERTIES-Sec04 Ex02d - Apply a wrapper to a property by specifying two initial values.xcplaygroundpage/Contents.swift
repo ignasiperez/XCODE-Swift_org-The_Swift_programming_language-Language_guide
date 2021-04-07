@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 4 - Step02d
+ ### 10 - Section 4 - Example 02d
+ # PROPERTIES
+ # Property Wrappers
  ## Apply a wrapper to a property by specifying two initial values
  ---
  */
@@ -9,7 +10,7 @@
 import Foundation
 
 
-// ******************** Sec04-Step02d ********************
+// ******************** 10-Sec04-Step02d ********************
 
 @propertyWrapper
 struct SmallNumber {
@@ -21,7 +22,7 @@ struct SmallNumber {
     set {
       number = min(newValue, maximum)
       print("var wrappedValue: Int { set")
-      print(" - number: \(number)")
+      print(" - number:\t\(number)")
     }
   }
   
@@ -31,17 +32,17 @@ struct SmallNumber {
   }
   
   init(wrappedValue: Int) {
-    print("\(#function)")
-    print(" - wrappedValue:  \(wrappedValue)")
+    print("\n\(#function)")
+    print(" - wrappedValue:\t\(wrappedValue)")
     
     maximum = 12
     number = min(wrappedValue, maximum)
   }
   
   init(wrappedValue: Int, maximum: Int) {
-    print("\(#function)")
-    print(" - wrappedValue:  \(wrappedValue)")
-    print(" - maximum:  \(maximum)")
+    print("\n\(#function)")
+    print(" - wrappedValue:\t\(wrappedValue)")
+    print(" - maximum:\t\t\(maximum)")
     
     self.maximum = maximum
     number = min(wrappedValue, maximum)
@@ -54,17 +55,17 @@ struct NarrowRectangle {
     @SmallNumber(wrappedValue: 3, maximum: 4) var width: Int
 }
 
-print("\n--- Sec04-Step02d ---")
+print("\n--- 10-Sec04-Ex02d ---")
 
 var narrowRectangle = NarrowRectangle()
-print("narrowRectangle.height: \(narrowRectangle.height)")
-print("narrowRectangle.width: \(narrowRectangle.width)")
+print("narrowRectangle.height:\t\(narrowRectangle.height)")
+print("narrowRectangle.width:\t\(narrowRectangle.width)")
 // Prints "2 3"
 
 narrowRectangle.height = 100
 narrowRectangle.width = 100
-print("narrowRectangle.height: \(narrowRectangle.height)")
-print("narrowRectangle.width: \(narrowRectangle.width)")
+print("narrowRectangle.height:\t\(narrowRectangle.height)")
+print("narrowRectangle.width:\t\(narrowRectangle.width)")
 // Prints "5 4"
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

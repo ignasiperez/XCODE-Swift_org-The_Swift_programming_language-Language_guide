@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 4 - Step02b
+ ### 10 - Section 4 - Example 02b
+ # PROPERTIES
+ # Property Wrappers
  ## Apply a wrapper to a property without specifying an initial value
  ---
  */
@@ -9,7 +10,7 @@
 import Foundation
 
 
-// ******************** Sec04-Step02b ********************
+// ******************** 10-Sec04-Ex02b ********************
 
 @propertyWrapper
 struct SmallNumber {
@@ -41,13 +42,13 @@ struct SmallNumber {
 }
 
 
+print("\n--- 10-Sec04-Ex02b ---")
+
 struct ZeroRectangle {
   @SmallNumber var height: Int
   @SmallNumber var width: Int
 }
 
-
-print("\n--- Sec04-Step02b ---")
 
 var zeroRectangle = ZeroRectangle()
 

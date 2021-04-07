@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 4 - Step02f
+ ### 10 - Section 4 - Example 02f
+ # PROPERTIES
+ # Property Wrappers
  ## Projecting a Value From a Property Wrapper
  ---
  */
@@ -9,7 +10,7 @@
 import Foundation
 
 
-// ******************** Sec04-Step02f ********************
+// ******************** 10-Sec04-Ex02f ********************
 
 @propertyWrapper
 struct SmallNumber {
@@ -46,7 +47,7 @@ var someStructure = SomeStructure()
 
 someStructure.someNumber = 4
 
-print("\n--- Sec04-Step02f ---")
+print("\n--- 10-Sec04-Ex02f ---")
 print("someStructure.$someNumber: \(someStructure.$someNumber)")
 // Prints "false"
 

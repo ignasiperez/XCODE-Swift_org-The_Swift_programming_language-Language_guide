@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 4 - Step02a
+ ### 10 - Section 4 - Example 02a
+ # PROPERTIES
+ # Property Wrappers
  ## Setting Initial Values for Wrapped Properties
  ---
  */

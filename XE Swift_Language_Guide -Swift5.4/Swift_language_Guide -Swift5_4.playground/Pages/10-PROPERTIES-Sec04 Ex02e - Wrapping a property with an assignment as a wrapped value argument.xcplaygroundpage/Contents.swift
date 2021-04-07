@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 4 - Step02e
+ ### 10 - Section 4 - Example 02e
+ # PROPERTIES
+ # Property Wrappers
  ## Wrapping a property with an assignment as a wrapped value argument
  ---
  */
@@ -9,7 +10,7 @@
 import Foundation
 
 
-// ******************** Sec04-Step02e ********************
+// ******************** 10-Sec04-Ex02e ********************
 
 @propertyWrapper
 struct SmallNumber {
@@ -38,7 +39,7 @@ struct SmallNumber {
   }
   
   init(wrappedValue: Int, maximum: Int) {
-    print("\(#function)")
+    print("\n\(#function)")
     print(" - wrappedValue:  \(wrappedValue)")
     print(" - maximum:  \(maximum)")
     
@@ -53,7 +54,7 @@ struct MixedRectangle {
   @SmallNumber(maximum: 9) var width: Int = 2
 }
 
-print("\n--- Sec04-Step02e ---")
+print("\n--- 10-Sec04-Ex02e ---")
 
 var mixedRectangle = MixedRectangle()
 print("mixedRectangle.height: \(mixedRectangle.height)")

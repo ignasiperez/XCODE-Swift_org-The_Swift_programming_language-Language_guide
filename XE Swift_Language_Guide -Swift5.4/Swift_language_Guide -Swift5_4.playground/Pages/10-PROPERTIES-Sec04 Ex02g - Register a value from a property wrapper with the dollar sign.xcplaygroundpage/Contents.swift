@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 4 - Step02g
+ ### 10 - Section 4 - Example 02g
+ # PROPERTIES
+ # Property Wrappers
  ## Register a value from a property wrapper with the dollar sign
  ---
  */
@@ -9,7 +10,7 @@
 import Foundation
 
 
-// ******************** Sec04-Step02g ********************
+// ******************** 10-Sec04-Ex02g ********************
 
 @propertyWrapper
 struct SmallNumber {
@@ -62,7 +63,7 @@ struct SizedRectangle {
 }
 
 
-print("\n--- Sec04-Step02g ---")
+print("\n--- 10-Sec04-Ex02g ---")
 
 var sizedRectangle = SizedRectangle()
 sizedRectangle.resize(to: .small)

@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 4 - Step02c
+ ### 10 - Section 4 - Example 02c
+ # PROPERTIES
+ # Property Wrappers
  ## Apply a wrapper to a property by specifying an initial value
  ---
  */
@@ -30,7 +31,7 @@ struct SmallNumber {
   }
   
   init(wrappedValue: Int) {
-    print("\(#function) - wrappedValue:  \(wrappedValue)")
+    print("\n\(#function) - wrappedValue:\t\(wrappedValue)")
     maximum = 12
     number = min(wrappedValue, maximum)
   }
@@ -41,14 +42,13 @@ struct SmallNumber {
   }
 }
 
+print("\n--- Sec04-Step02c ---")
 
 struct UnitRectangle {
   @SmallNumber var height: Int = 1
   @SmallNumber var width: Int = 1
 }
 
-
-print("\n--- Sec04-Step02c ---")
 
 var unitRectangle = UnitRectangle()
 
