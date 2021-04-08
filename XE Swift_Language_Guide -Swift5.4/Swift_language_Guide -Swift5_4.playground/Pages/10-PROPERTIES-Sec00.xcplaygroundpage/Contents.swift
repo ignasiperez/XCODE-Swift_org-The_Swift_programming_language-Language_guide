@@ -13,10 +13,9 @@
  
  [Sec04 Property Wrappers](<10-PROPERTIES-Sec04%20-%20Property%20Wrappers>)
  
- [Sec05 ](<>)
+ [Sec05 Global and Local Variables](<10-PROPERTIES-Sec05%20-%20Global%20and%20Local%20Variables>)
  
- [Sec06 ](<>)
- 
+ [Sec06 Type Properties](<10-PROPERTIES-Sec06%20-%20Type%20Properties>)
  */
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

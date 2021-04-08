@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 5 - Step01a
+ ### 10 - Section 6 - Example 01b
+ # PROPERTIES
+ # Type Properties
  ## Example Type Properties
  ---
  */
@@ -9,7 +10,7 @@
 import Foundation
 
 
-// ******************** Sec05-Step01a ********************
+// ******************** 10-Sec06-Ex01b ********************
 
 struct SomeStructure {
   static var storedTypeProperty = "Some value."
@@ -41,5 +42,20 @@ class SomeClass {
   }
 }
 
+
+print("\n--- 10-Sec05-Ex01b ---")
+
+print("SomeStructure.storedTypeProperty:\t \(SomeStructure.storedTypeProperty)")
+// Prints "Some value."
+
+SomeStructure.storedTypeProperty = "Another value."
+print("SomeStructure.storedTypeProperty:\t \(SomeStructure.storedTypeProperty)")
+// Prints "Another value."
+
+print("SomeEnumeration.computedTypeProperty:\t \(SomeEnumeration.computedTypeProperty)")
+// Prints "6"
+
+print("SomeClass.computedTypeProperty:\t \(SomeClass.computedTypeProperty)")
+// Prints "27"
 
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)

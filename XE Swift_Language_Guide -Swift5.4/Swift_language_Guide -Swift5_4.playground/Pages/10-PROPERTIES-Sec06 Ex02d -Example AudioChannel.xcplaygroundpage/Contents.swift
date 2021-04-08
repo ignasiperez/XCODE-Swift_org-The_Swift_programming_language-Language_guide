@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 5 - Step02d
+ ### 10 - Section 6 - Example 02d
+ # PROPERTIES
+ # Type Properties
  ## Example AudioChannel
  ---
  */
@@ -9,7 +10,7 @@
 import Foundation
 
 
-// ******************** Sec05-Step02d ********************
+// ******************** 10-Sec05-Ex02d ********************
 
 struct AudioChannel {
   static let thresholdLevel = 10
@@ -44,7 +45,7 @@ print("AudioChannel.maxInputLevelForAllChannels:\t \(AudioChannel.maxInputLevelF
 // Prints "7"
 
 
-print("\n--- Sec05-Step01d ---")
+print("\n--- 10-Sec06-Step02d ---")
 
 rightChannel.currentLevel = 11
 print("rightChannel.currentLevel:\t \(rightChannel.currentLevel)")

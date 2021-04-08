@@ -1,7 +1,8 @@
 //: # [               􀄪   ](@previous) [   􀙋   ](_Cover%20page) [   􀄫](@next)
 /*:
- # Properties
- ## Section 5 - Step02b
+ ### 10 - Section 6 - Example 02b
+ # PROPERTIES
+ # Type Properties
  ## Example AudioChannel
  ---
  */
@@ -9,7 +10,7 @@
 import Foundation
 
 
-// ******************** Sec05-Step02b ********************
+// ******************** 10-Sec06-Ex02b ********************
 
 struct AudioChannel {
   static let thresholdLevel = 10
