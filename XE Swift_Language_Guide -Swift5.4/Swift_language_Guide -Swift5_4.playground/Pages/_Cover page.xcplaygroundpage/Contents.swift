@@ -26,6 +26,7 @@
  
  [10 PROPERTIES](<10-PROPERTIES-Sec00>)
  
+ [11 METHODS](<11-METHODS-Sec00>)
 */
 //: # [                         􀄫](@next)
 /*:
